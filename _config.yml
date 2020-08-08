@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Bitácora de un impostor
-email: joscormir@gmail.com
+title: Aprendiz de todo, maestro de nada.  
+email:
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a personal blog used as a logbook for the current ongoing projects I start and never finish as a consequence of suffering from a permanent imposter syndrom. Normally it is about hardware/software developments and pretty focus on C++ and Game Engine development, but everything can happend since my mind cannot focus more than a small amount of time on a topic.
+  Que no sea capaz de describirlo dice mucho de su contenido. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joscormir

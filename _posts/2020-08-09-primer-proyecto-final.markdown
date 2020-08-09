@@ -16,5 +16,3 @@ Mi solución (que entiendo que no diferirá mucho de la de los demás compañero
 
 Lo único, como es normal el curso está muy enfocado a utilizar el portal online que pone Udacity y claro, cuesta un poco generar el setup en condiciones para poder hacerlo todo en local, tanto la instalación de dependencias para la librería de I02D como para correr los diferentes cmake's. Integrar el sistema en Visual Studio Code ya es otra historia, yo no le he hecho, pero estaría bien darle un tiento para futuros proyectos.
 
-PD: Este es el resultado con coordenadas aleatorias:
-

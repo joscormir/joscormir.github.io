@@ -4,6 +4,8 @@ title:  "Primer proyecto final terminado"
 date:   2020-08-09 21:00:00 +0200
 categories: c++ update nano degree programming
 ---
+![Map](/assets/Screenshot from 2020-08-09 21-26-24.png)
+
 Ha sido bastante interesante sobre todo ver cómo el equipo de Udacity ha aterrizado los conceptos lo suficiente como para hacerlo asequible a cualquiera con un poco de formación en la materia, sin perder profundidad sobre las herramientas, métodos y en definitiva entorno que se espera de algo actualizado. La combinación que ofrece el proyecto es un resumen condensado y muy bien preparado de lo que es un proyecto de software con una arquitectura ya definida.
 
 Repito, la arquitectura estaba completamente definida. Una vez más te encuentras con que hay rellenar los huecos que te deja el equipo de Udacity. Han implementado un unitTest que puede ayudarte a verificar antes de lanzarlo sobre un mapa real que todas las funciones cumplen las restricciones que el programador que diseñó el proyecto tenía pensado para ello. 
@@ -16,4 +18,3 @@ Lo único, como es normal el curso está muy enfocado a utilizar el portal onlin
 
 PD: Este es el resultado con coordenadas aleatorias:
 
-![Map](/assets/Screenshot from 2020-08-09 21-26-24.png)
